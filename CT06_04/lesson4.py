@@ -49,4 +49,4 @@ print("next year you will be " + str(age) + "years old")
 
 number = input(" Type in any number ")
 number = int(number)
-number = 
+number = number 
