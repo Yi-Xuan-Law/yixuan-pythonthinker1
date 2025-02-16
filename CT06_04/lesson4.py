@@ -52,4 +52,4 @@
 # number = number * 2
 # print("double your number is " + str(number))
 
-year = ("")
+year = input("what year were you born in")
