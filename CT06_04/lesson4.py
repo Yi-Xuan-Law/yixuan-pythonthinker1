@@ -53,4 +53,4 @@
 # print("double your number is " + str(number))
 
 year = input("what year were you born in")
-year
+year = int()
