@@ -48,4 +48,4 @@
 # for number in range (3 , 0 , -1):
 #     print(number)
 
-start=input(What is the )
+start=input("What is your starting number?")
