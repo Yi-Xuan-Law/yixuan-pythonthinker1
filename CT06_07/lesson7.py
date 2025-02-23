@@ -15,3 +15,4 @@ print("Average score for " + student_name + " is: " + str(average_score))
 
 for number in range(1, 11):
     print(number)
+
