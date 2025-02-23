@@ -19,6 +19,6 @@
 # for number in range(2 , 21 , 2):
 #     print(number)
 
-for number in range(10 , 1 , -1):
+for number in range(10 , -1 , -1):
     print(number)
   
