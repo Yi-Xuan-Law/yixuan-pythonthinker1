@@ -20,7 +20,7 @@ print ("Hello, World!")
 
 
 # **Task 2a**:
-age = 
+age = 0.5
 print(age)
 
 # **Task 2b**:
