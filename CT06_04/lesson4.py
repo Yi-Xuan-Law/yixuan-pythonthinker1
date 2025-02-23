@@ -55,3 +55,4 @@
 year = input("what year were you born in")
 year = int(year)
 year = year
+year born
