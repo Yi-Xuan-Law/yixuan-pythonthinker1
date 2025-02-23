@@ -20,5 +20,5 @@
 #     print(number)
 
 for number in range(10 , 1 , -1):
-    print
+    print(number)
   
