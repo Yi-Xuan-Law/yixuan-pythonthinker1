@@ -49,4 +49,4 @@
 #     print(number)
 
 start = input("What is your starting number?")
-end = input ("")
+end = input ("What is your end number ")
