@@ -54,3 +54,6 @@ end = input ("What is your end number ?")
 if start > end:
     for i in range(start, end -1, -1):
         print(i)
+else:
+    for i in range(start, end +1, 1):
+        print(i)
