@@ -38,4 +38,4 @@
 
 # print(sum)
 
-sum=0
+number=input("What number is for the timestable?")
