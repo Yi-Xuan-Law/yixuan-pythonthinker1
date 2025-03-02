@@ -22,4 +22,5 @@
 # for number in range(10 , 0 , -1):
 #     print(number)
 
-c
+# for number in range(1, 11):
+#     print(number)
