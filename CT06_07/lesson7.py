@@ -39,5 +39,5 @@
 # print(sum)
 
 times=input("What number is for the timestable?")
-f
+
  
