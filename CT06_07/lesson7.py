@@ -25,4 +25,4 @@
 # for number in range(1, 11):
 #     print(number)
 
-word+nput("What is your word")
+word=input(hat is your word")
