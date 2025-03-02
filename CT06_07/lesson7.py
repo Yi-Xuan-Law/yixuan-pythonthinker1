@@ -41,8 +41,8 @@
 times=int(input("What number is for the timestable?"))
 
 for i in range(1,13):
-    print(str(times) +  ' x')
-    # "5 x"
+    print(str(times) +  " x " )
+    # "5 x "
 
 
  
