@@ -39,3 +39,4 @@
 # print(sum)
 
 number=input("What number is for the timestable?")
+
