@@ -31,3 +31,8 @@
 # for i in range(times):
 #     print(word)
 # range is to count numbers
+
+sum=0
+for i in range(1,6):
+    sum = su
+
