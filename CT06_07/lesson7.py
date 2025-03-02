@@ -25,8 +25,8 @@
 # for number in range(1, 11):
 #     print(number)
 
-word=input("What is your word?")
-times=int(input("How many times do you want it to repeat?"))
+# word=input("What is your word?")
+# times=int(input("How many times do you want it to repeat?"))
 
-for i in range(times):
-    print(word)
+# for i in range(times):
+#     print(word)
