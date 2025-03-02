@@ -40,4 +40,6 @@
 
 times=int(input("What number is for the timestable?"))
 
+
+
  
