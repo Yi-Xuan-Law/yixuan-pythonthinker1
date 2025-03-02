@@ -42,7 +42,7 @@ times=int(input("What number is for the timestable?"))
 
 for i in range(1,13):
     print(str(times) +  " x " + str(i))
-    # "5 x 1"
+    # "5 x 1  = "
 
 
  
