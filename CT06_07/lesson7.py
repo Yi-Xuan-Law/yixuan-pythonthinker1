@@ -30,4 +30,4 @@
 
 # for i in range(times):
 #     print(word)
-#
+# range is to count numbers
