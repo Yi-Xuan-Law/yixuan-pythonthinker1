@@ -38,3 +38,4 @@
 
 # print(sum)
 
+sum=0
