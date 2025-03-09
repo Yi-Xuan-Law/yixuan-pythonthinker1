@@ -1,1 +1,1 @@
-name=
+name=input("What is your naem")
