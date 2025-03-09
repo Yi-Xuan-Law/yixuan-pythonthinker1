@@ -44,4 +44,4 @@
 #     print(str(times) +  " x " + str(i)+" = " + str(times * i))
 
 
-layers=input("How many layers?")
+layers=int(input("How many layers?"))
