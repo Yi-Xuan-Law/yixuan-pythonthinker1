@@ -45,3 +45,5 @@
 
 
 layers=int(input("How many layers?"))
+for i in range(1, layers+1):
+    print()
