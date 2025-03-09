@@ -6,4 +6,5 @@ start=int(("What is your start number?"))
 stop=int(("What is your stop number?"))
 increament=int(("What is the increament?"))
 
-print()
+for i in range(start, stop, increament):
+    
