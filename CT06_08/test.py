@@ -23,3 +23,6 @@
 # 	print(count)
 
 
+name = "DENNIS"
+for letter in range("DENNIS"):
+	print(letter)
