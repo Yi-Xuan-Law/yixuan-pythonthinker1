@@ -2,9 +2,9 @@
 # print("nice to meet you, " + name)  #nice to meet you, person's name
 
 
-start=int(("What is your start number?"))
-stop=int(("What is your stop number?"))
-increament=int(("What is the increament?"))
+start=("What is your start number?")
+stop=("What is your stop number?")
+increament=("What is the increament?")
 
 for i in range(start, stop, increament):
     print(i)
