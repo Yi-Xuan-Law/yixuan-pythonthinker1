@@ -3,7 +3,7 @@
 
 
 start=int(input("What is your start number?"))   #ask user what is the start number
-stop=int(input("What is your stop number?"))
+stop=int(input("What is your stop number?"))      # ask user 
 increament=int(input("What is the increament?"))
 
 for i in range(start, stop, increament):
