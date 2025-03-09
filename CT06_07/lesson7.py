@@ -44,4 +44,3 @@
 #     print(str(times) +  " x " + str(i)+" = " + str(times * i))
 
 
-
