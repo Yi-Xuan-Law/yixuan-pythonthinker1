@@ -44,4 +44,4 @@
 #     print(str(times) +  " x " + str(i)+" = " + str(times * i))
 
 
-number=inout
+number=input()
