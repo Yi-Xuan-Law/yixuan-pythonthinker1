@@ -12,3 +12,5 @@ for i in range(start, stop, increament):               #print
 
 age=11
 name="John"
+
+print(age+name)
