@@ -8,3 +8,6 @@ increament=int(input("What is the increament?"))   #ask user what is their incre
 
 for i in range(start, stop, increament):               #print
     print(i)
+
+
+age=11
