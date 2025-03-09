@@ -32,3 +32,6 @@ batman = "10"
 robin = "2"
 print(batman + robin)
 
+
+for count in range(100, 0, -1):
+	print(count)
