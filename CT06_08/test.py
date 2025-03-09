@@ -6,5 +6,5 @@ start=int(input("What is your start number?"))   #ask user what is the start num
 stop=int(input("What is your stop number?"))      # ask user what is their stop number
 increament=int(input("What is the increament?"))   #ask user what is their increament
 
-for i in range(start, stop, increment):               #print
+for i in range(start, stop, increament):               #print
     print(i)
