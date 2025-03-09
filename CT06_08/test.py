@@ -10,7 +10,10 @@
 #     print(i)
 
 
-age=11
-name="John"
+# age=11
+# name="John"
 
-print(age+name)
+# print(age+name)
+
+
+
