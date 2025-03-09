@@ -7,4 +7,4 @@ stop=int(("What is your stop number?"))
 increament=int(("What is the increament?"))
 
 for i in range(start, stop, increament):
-    
+    print(i)
