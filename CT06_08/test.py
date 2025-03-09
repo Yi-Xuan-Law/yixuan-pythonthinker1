@@ -2,4 +2,4 @@ name=input("What is your name?")   #ask user what is their name
 print("nice to meet you, " + name)  #nice to meet you, person's name
 
 
-start=("What is your start number?")
+start=int(("What is your start number?"))
