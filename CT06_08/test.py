@@ -24,5 +24,5 @@
 
 
 name = "DENNIS"
-for letter in range("DENNIS"):
+for letter in name:
 	print(letter)
