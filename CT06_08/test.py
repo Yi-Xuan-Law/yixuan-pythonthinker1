@@ -1,2 +1,2 @@
 name=input("What is your name?")   #ask user what is their name
-print()
+print("What is your name")
