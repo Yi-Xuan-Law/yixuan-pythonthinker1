@@ -4,7 +4,7 @@
 
 start=input("What is your start number?")
 stop=input("What is your stop number?")
-increament=("What is the increament?")
+increament=input("What is the increament?")
 
 for i in range(start, stop, increament):
     print(i)
