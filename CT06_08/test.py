@@ -23,6 +23,11 @@
 # 	print(count)
 
 
-name = "DENNIS"
-for letter in name:
-	print(letter)
+# name = "DENNIS"
+# for letter in name:
+# 	print(letter)
+
+
+batman = "10"
+robin = "2"
+print(batman + robin)
