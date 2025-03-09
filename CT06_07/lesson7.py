@@ -44,4 +44,4 @@
 #     print(str(times) +  " x " + str(i)+" = " + str(times * i))
 
 
-number=input("What is your number?")
+layers=input
