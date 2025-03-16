@@ -35,3 +35,4 @@
 # print(ans == num1+num2)
 
 import random
+guess = int
