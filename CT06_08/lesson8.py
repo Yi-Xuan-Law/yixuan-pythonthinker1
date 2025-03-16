@@ -36,4 +36,4 @@
 
 import random
 guess = int(input("What is your guess? "))
-num1
+num1=random.randint(1,10)
