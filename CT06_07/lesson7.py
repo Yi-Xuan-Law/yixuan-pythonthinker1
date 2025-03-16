@@ -54,4 +54,4 @@ sum=0
 for number in range(1, 6):
     sum=sum+int(input("What is the score of the student "+ str(number) + "?"))
 
-print()
+print(sum/5)
