@@ -43,4 +43,4 @@ import random
 
 questions = input("How many question do you want?")
 num1=random.randint(1,10)
-num2=
+num2=random.randint(1,10)
