@@ -28,4 +28,5 @@
 # print (var1 == var2)
 
 import random
-input
+num1=random.randint(1,50)
+num2=random.randint()
