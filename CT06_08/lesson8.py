@@ -36,3 +36,4 @@
 
 import random
 guess = int(input("What is your guess? "))
+num1
