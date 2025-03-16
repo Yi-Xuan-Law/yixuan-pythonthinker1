@@ -13,6 +13,6 @@
 #     print(i)
 #     time.sleep(1)
 
-import random
-print(random.randint(1, 6))
+# import random
+# print(random.randint(1, 6))
 
