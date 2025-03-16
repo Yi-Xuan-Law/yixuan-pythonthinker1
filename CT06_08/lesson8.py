@@ -27,9 +27,10 @@
 
 # print (var1 == var2)
 
-import random
-num1=random.randint(1,50)
-num2=random.randint(1,50)
-ans = int(input("What is your answer for " + str(num1) + "+" + str(num2) + "? "))
+# import random
+# num1=random.randint(1,50)
+# num2=random.randint(1,50)
+# ans = int(input("What is your answer for " + str(num1) + "+" + str(num2) + "? "))
 
-print(ans == num1+num2)
+# print(ans == num1+num2)
+
