@@ -52,4 +52,4 @@
 
 sum=0
 for number in range(1, 6):
-    sum=sum+int(input("What is the score of the student "+ number"?"))
+    sum=sum+int(input("What is the score of the student "+ number + "?"))
