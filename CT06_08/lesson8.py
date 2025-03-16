@@ -5,10 +5,11 @@
 #     print(num)
 #     time.sleep(1)
 
-import time
+# import time
 
-num = int(input("What number do you want to count down from?"))
+# num = int(input("What number do you want to count down from?"))
 
-for i in range(num,0,-1):
-    print(i)
-    time.sleep(1)
+# for i in range(num,0,-1):
+#     print(i)
+#     time.sleep(1)
+
