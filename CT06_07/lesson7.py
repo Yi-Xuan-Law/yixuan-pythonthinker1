@@ -50,8 +50,8 @@
 #     print(str(i)*i)
 
 
-sum=0
-for number in range(1, 6):
-    sum=sum+int(input("What is the score of the student "+ str(number) + "?"))
+# sum=0
+# for number in range(1, 6):
+#     sum=sum+int(input("What is the score of the student "+ str(number) + "?"))
 
-print(sum/5)
+# print(sum/5)
