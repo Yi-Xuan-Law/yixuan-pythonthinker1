@@ -34,7 +34,8 @@
 
 # sum=0
 # for i in range(1,6):
-#     sum = sum + int(input("what is number #"+ str(i)))
+#     sum = sum + int(input("what is number #"+ str(i)
+
 
 # print(sum)
 
@@ -47,3 +48,5 @@
 # layers=int(input("How many layers?"))
 # for i in range(1, layers+1):
 #     print(str(i)*i)
+
+
