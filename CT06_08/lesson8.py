@@ -14,4 +14,4 @@
 #     time.sleep(1)
 
 import random
-print(random.)
+print(random.randomint)
