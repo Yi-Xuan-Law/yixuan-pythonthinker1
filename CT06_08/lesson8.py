@@ -30,4 +30,4 @@
 import random
 num1=random.randint(1,50)
 num2=random.randint(1,50)
-int(input("What is your answer for " + str(num1) + "+" + str))
+int(input("What is your answer for " + str(num1) + "+" + str(num2)))
