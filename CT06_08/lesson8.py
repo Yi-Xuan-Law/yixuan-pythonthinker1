@@ -40,3 +40,5 @@
 # print(guess == num1)
 
 import random
+
+questions = input()
