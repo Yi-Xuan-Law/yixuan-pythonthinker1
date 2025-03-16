@@ -47,4 +47,4 @@ for num in range (questions):
 
     num1=random.randint(1,10)
     num2=random.randint(1,10)
-    ans = int(input("What is your answer for " + str(num1) + "+" + str(num2) + "? "))
+    ans = int(input("What is your answer for " + str(num1) + "*" + str(num2) + "? "))
