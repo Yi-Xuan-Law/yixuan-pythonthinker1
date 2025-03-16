@@ -2,5 +2,5 @@ print("Hello from lesson 8")
 
 import time
 for num in range(10,0,-1):
-    print
+    print(num)
     time.sleep(1)
