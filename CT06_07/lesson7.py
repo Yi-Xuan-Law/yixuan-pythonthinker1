@@ -44,6 +44,6 @@
 #     print(str(times) +  " x " + str(i)+" = " + str(times * i))
 
 
-layers=int(input("How many layers?"))
-for i in range(1, layers+1):
-    print(str(i)*i)
+# layers=int(input("How many layers?"))
+# for i in range(1, layers+1):
+#     print(str(i)*i)
