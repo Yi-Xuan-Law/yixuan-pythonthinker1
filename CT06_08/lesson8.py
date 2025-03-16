@@ -7,7 +7,7 @@
 
 import time
 
-num = in
+num = input(What is t)
 
 for i in range(10,0,-1):
     print(i)
