@@ -62,4 +62,4 @@ num = int(input("What is the number of students?"))
 for number in range(1, num+1):
      sum=sum+int(input("What is the score of the student "+ str(number) + "?"))
 
-print(sum/5)
+print(sum/num)
