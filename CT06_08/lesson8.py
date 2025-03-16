@@ -43,7 +43,7 @@ import random
 
 questions = input("How many question do you want?")
 
+for num in range (questions):
 
-
-num1=random.randint(1,10)
-num2=random.randint(1,10)
+    num1=random.randint(1,10)
+    num2=random.randint(1,10)
