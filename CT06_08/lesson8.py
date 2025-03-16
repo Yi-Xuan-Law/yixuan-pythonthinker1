@@ -35,4 +35,4 @@
 # print(ans == num1+num2)
 
 import random
-guess = input("What is your guess? ")
+guess = int(input("What is your guess? "))
