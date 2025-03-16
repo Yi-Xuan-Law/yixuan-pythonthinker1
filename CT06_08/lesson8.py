@@ -34,7 +34,8 @@
 
 # print(ans == num1+num2)
 
-import random
-guess = int(input("What is your guess? "))
-num1=random.randint(1,10)
-print(guess == num1)
+# import random
+# guess = int(input("What is your guess? "))
+# num1=random.randint(1,10)
+# print(guess == num1)
+
