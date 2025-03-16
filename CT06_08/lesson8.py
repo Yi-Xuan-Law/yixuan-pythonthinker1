@@ -16,4 +16,5 @@
 # import random
 # print(random.randint(1, 6))
 
-var1=
+var1=True
+var2=True
