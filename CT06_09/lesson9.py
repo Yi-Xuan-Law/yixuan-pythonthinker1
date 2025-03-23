@@ -27,3 +27,6 @@ import random
 
 num = random.randint(1, 10)
 number = input(" What is the number ? ")
+
+if number == num :
+    p
