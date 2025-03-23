@@ -51,6 +51,6 @@ for num in range (questions):
     print(ans == num1*num2)
 
 import random
-num1 = random.randint
-num2 = random.randint
+num1 = random.randint(1, 6)
+num2 = random.randint(1, 6)
 num3 = random.randint
