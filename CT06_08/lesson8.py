@@ -49,3 +49,4 @@ for num in range (questions):
     num2=random.randint(1,10)
     ans = int(input("What is your answer for " + str(num1) + "x" + str(num2) + "? "))
     print(ans == num1*num2)
+
