@@ -50,3 +50,4 @@ for num in range (questions):
     ans = int(input("What is your answer for " + str(num1) + "x" + str(num2) + "? "))
     print(ans == num1*num2)
 
+import random
