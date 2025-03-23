@@ -18,4 +18,4 @@ print("Hello from lesson 9")
 
 # print(all_even_odd)
 
-days = inp
+days = input()
