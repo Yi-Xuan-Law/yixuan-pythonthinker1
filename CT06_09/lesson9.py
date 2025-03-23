@@ -29,4 +29,4 @@ num = random.randint(1, 10)
 number = int(input(" What is the number ? "))
 
 if number == num :
-    p
+    print("")
