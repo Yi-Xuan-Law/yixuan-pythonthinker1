@@ -53,4 +53,4 @@ for num in range (questions):
 import random
 num1 = random.randint
 num2 = random.randint
-num3 = 
+num3 = random.randint
