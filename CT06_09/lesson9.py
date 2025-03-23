@@ -26,7 +26,7 @@ print("Hello from lesson 9")
 import random
 
 num = random.randint(1, 10)
-number = input(" What is the number ? ")
+number = int(input(" What is the number ? "))
 
 if number == num :
     p
