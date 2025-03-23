@@ -24,3 +24,5 @@ print("Hello from lesson 9")
 #     print(" Remember to return your book! ")
 
 import random
+
+num = random.randint
